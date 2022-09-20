@@ -34,7 +34,7 @@
     <MicrosoftAspNetCoreComponentsAnalyzersPackageVersion>7.0.0-rc.1.22427.1</MicrosoftAspNetCoreComponentsAnalyzersPackageVersion>
     <MicrosoftAspNetCoreComponentsFormsPackageVersion>7.0.0-rc.1.22427.1</MicrosoftAspNetCoreComponentsFormsPackageVersion>
     <MicrosoftAspNetCoreComponentsPackageVersion>7.0.0-rc.1.22427.1</MicrosoftAspNetCoreComponentsPackageVersion>
-    <MicrosoftAspNetCoreComponentsWebPackageVersion>7.0.0-rc.1.22427.1</MicrosoftAspNetCoreComponentsWebPackageVersion>
+    <MicrosoftAspNetCoreComponentsWebPackageVersion>7.0.0-rtm.22470.1</MicrosoftAspNetCoreComponentsWebPackageVersion>
     <MicrosoftAspNetCoreComponentsWebViewPackageVersion>7.0.0-rc.1.22427.1</MicrosoftAspNetCoreComponentsWebViewPackageVersion>
     <MicrosoftAspNetCoreMetadataPackageVersion>7.0.0-rc.1.22427.1</MicrosoftAspNetCoreMetadataPackageVersion>
     <MicrosoftJSInteropPackageVersion>7.0.0-rc.1.22427.1</MicrosoftJSInteropPackageVersion>
