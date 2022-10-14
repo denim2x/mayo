@@ -35,7 +35,7 @@
     <MicrosoftAspNetCoreComponentsFormsPackageVersion>7.0.0-rc.1.22427.1</MicrosoftAspNetCoreComponentsFormsPackageVersion>
     <MicrosoftAspNetCoreComponentsPackageVersion>7.0.0-rc.1.22427.1</MicrosoftAspNetCoreComponentsPackageVersion>
     <MicrosoftAspNetCoreComponentsWebPackageVersion>7.0.0-rc.1.22427.1</MicrosoftAspNetCoreComponentsWebPackageVersion>
-    <MicrosoftAspNetCoreComponentsWebViewPackageVersion>7.0.0-rc.1.22427.1</MicrosoftAspNetCoreComponentsWebViewPackageVersion>
+    <MicrosoftAspNetCoreComponentsWebViewPackageVersion>7.0.0-rtm.22513.3</MicrosoftAspNetCoreComponentsWebViewPackageVersion>
     <MicrosoftAspNetCoreMetadataPackageVersion>7.0.0-rc.1.22427.1</MicrosoftAspNetCoreMetadataPackageVersion>
     <MicrosoftJSInteropPackageVersion>7.0.0-rc.1.22427.1</MicrosoftJSInteropPackageVersion>
     <!-- Other packages -->
